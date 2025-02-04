@@ -1,7 +1,3 @@
-Below is the **GitHub README** format for your **homework assignment**, including proper **Markdown formatting**, headings, bullet points, and code blocks.
-
----
-
 # **Homework Assignment: Refactoring MonolithicAdventureGame Using SOLID Principles**
 
 ## **Objective**
