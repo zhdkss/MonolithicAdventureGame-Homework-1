@@ -107,14 +107,3 @@ Break the existing **MonolithicAdventureGame** class into distinct components:
 │
 │── README.md
 ```
-
----
-
-## **Need Help?**
-💡 **Office Hours:** [Insert Available Times]  
-💬 **Discussion Forum:** [Insert Link]  
-📩 **Email:** [Insert Contact Info]  
-
----
-
-This README provides clear **instructions, expectations, and formatting** for the assignment, making it easier for students to complete their work in a structured way. 🚀
