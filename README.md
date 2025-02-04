@@ -67,12 +67,11 @@ Break the existing **MonolithicAdventureGame** class into distinct components:
 ---
 
 ## **Submission Guidelines**
-- **Deadline:** 🕒 [Insert Submission Deadline]
 - **Submit:**
   1. **Refactored Java Code** (`.java` files)
   2. **Documentation** (`README.md` or `.pdf`)
   3. **UML Diagrams** (`.png`, `.jpg`, or `.pdf`)
-- **Submission Method:** [GitHub Repository / Course LMS / Email]
+- **Submission Method:** GitHub Repository
 
 ---
 
