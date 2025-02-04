@@ -61,7 +61,6 @@ Break the existing **MonolithicAdventureGame** class into distinct components:
 - Justify **why** you structured the new classes as you did.
 
 ### **UML Diagrams (Optional, but Recommended)**
-- **Before Refactoring** → Show the **monolithic** design.
 - **After Refactoring** → Show the **new modular structure** with dependencies.
 
 ---
